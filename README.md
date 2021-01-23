@@ -19,9 +19,9 @@ __Controls:__
 - Click the red square icon on the bottom left of the IDE or when the program asks to continue, type no and press enter to exit the program
 
 __Methods:__ 
-- Incorporated Enumerators to handle certain situations of the player in game
-- Incorporated a timer to check detections and movement of objects,  spawn items, as well as to update player the number of player lives and to switch forms when one of the players reaches 0 lives
-- Utilized static variables for other forms to use to help with game functionality such as figuring out the winner between player and the character picked by each player
+- Incorporated a file reader to read the text file 
+- Incorporated  
+- Utilized 
 
 __Credits:__
 - Program created by Tobin Tojo, Camille Gener and Matthew Coculuzzi for ICS3U1 Computer Science CPT
