@@ -22,7 +22,7 @@ __Methods:__
 - Incorporated a file reader to read the text file Demographics.txt and arranged characters to be display certain characters based on the user's input
 - Incorporated mutliple methods to manage and display information based on the section of the population the user chooses
 - Utilized Java's scanner library to read and process user inputs
-- Utlized Java's Abstract Window Toolkit to get the user's desktop to open the website that contains all the data based on the region of Peel's Demographics
+- Utlized Java's Abstract Window Toolkit to get the user's desktop to open the website that contains all the data based on the region of Peel's demographics
 
 __Credits:__
 - Program created by Tobin Tojo, Camille Gener and Matthew Coculuzzi for ICS3U1 Computer Science CPT
