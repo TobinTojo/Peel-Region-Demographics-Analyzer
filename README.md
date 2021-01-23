@@ -13,3 +13,6 @@ __Requirements:__
 - After opening the Java file in your IDE, click the run icon on the top your screen and then select the option Run
 - Next select the option DemographicsAnalyzer, the program will then operate
 
+__Controls:__ 
+- Instructions in program
+- After typing necessary input, press enter to process the input and display the output
