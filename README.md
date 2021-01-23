@@ -9,6 +9,7 @@ __Requirements:__
 
  __Instructions:__
 - First download the repository
-- Then open the file DemographicsAnalyzer.class
-- After opening the Java file in your IDE, click the green start button on the top middle of the Visual Studio Application
+- Then open the file DemographicsAnalyzer.java
+- After opening the Java file in your IDE, click the run icon on the top your screen and then select the option Run
+- Next select the option DemographicsAnalyzer, the program will then operate
 
