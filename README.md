@@ -16,3 +16,4 @@ __Requirements:__
 __Controls:__ 
 - Instructions in program
 - After typing necessary input, press enter to process the input and display the output
+- Click the red square icon on the bottom left of the IDE or when the program asks to continue, type no and press enter to exit the program
